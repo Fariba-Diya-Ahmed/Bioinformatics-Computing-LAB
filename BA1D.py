@@ -1,4 +1,4 @@
-# Find all occurerences of a pattern in a string
+# Find all occurrences of a pattern in a string
 
 pattern = input()
 k = len(pattern)
